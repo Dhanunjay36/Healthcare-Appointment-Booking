@@ -13,11 +13,11 @@ Users can register, log in, search for doctors, and book appointments online.
 
 ##🚀 Tech Stack / Tools & Libraries Used
 1)🔧 Frontend (React.js)
-   -React.js – UI development
-   -React Router – Routing between pages
-   -Axios – For HTTP requests
-   -Tailwind CSS – Styling
-   -Toastify – Notifications & alerts
+   **React.js – UI development
+   **React Router – Routing between pages
+   **Axios – For HTTP requests
+   **Tailwind CSS – Styling
+   **Toastify – Notifications & alerts
 
 2)🖥️ Backend (Node.js + Express.js)
   -Express.js – Server-side routing & API logic
