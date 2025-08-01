@@ -71,7 +71,5 @@ Users can register, log in, search for doctors, and book appointments online.
 
 - 🗓️ Calendar view for doctors  
 - 📧 Email & SMS notifications  
-- 💳 Payment gateway integration (e.g., Stripe)  
-- 📊 Admin dashboard with analytics  
-- 🔍 Doctor search/filter by specialization and rating  
+- 💳 Payment gateway integration (e.g., Stripe)    
 - 🌐 Multi-language support  
