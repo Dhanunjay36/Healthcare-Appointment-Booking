@@ -13,33 +13,33 @@ Users can register, log in, search for doctors, and book appointments online.
 
 ##🚀 Tech Stack / Tools & Libraries Used
 1)🔧 Frontend (React.js)
-   React.js – UI development
-   React Router – Routing between pages
-   Axios – For HTTP requests
-   Tailwind CSS – Styling
-   Toastify – Notifications & alerts
+   -React.js – UI development
+   -React Router – Routing between pages
+   -Axios – For HTTP requests
+   -Tailwind CSS – Styling
+   -Toastify – Notifications & alerts
 
 2)🖥️ Backend (Node.js + Express.js)
-  Express.js – Server-side routing & API logic
-  Node.js – Backend environment
-  Mongoose – MongoDB object modeling
+  -Express.js – Server-side routing & API logic
+  -Node.js – Backend environment
+  -Mongoose – MongoDB object modeling
 
 3)🛢️ Database
-   MongoDB Atlas – Cloud database to store user and appointment data
+   -MongoDB Atlas – Cloud database to store user and appointment data
 
 4)🔒 Authentication
-  JWT (JSON Web Tokens) – Secure user login & session handling
-  bcryptjs – Password hashing
+  -JWT (JSON Web Tokens) – Secure user login & session handling
+  -bcryptjs – Password hashing
 
 ---
 ##✨ Features
-1)User Registration/Login
-2)Role-based access (Patient / Doctor / Admin)
-3)Book / Cancel Appointments
-4)View Available Slots
-5)Doctor Profile Management
-6)Admin Dashboard (Manage Doctors, Users, Appointments)
-7)Responsive design for mobile and desktop
+-User Registration/Login
+-Role-based access (Patient / Doctor / Admin)
+-Book / Cancel Appointments
+-View Available Slots
+-Doctor Profile Management
+-Admin Dashboard (Manage Doctors, Users, Appointments)
+-Responsive design for mobile and desktop
 
 ---
 ## 🧗 Challenges Faced & Solutions
