@@ -1,6 +1,6 @@
 # 🏥 Healthcare Appointment Booking using MERN
 
-### 🚀 [🌐 Project Demo (Google Drive)](https://drive.google.com/file/d/14QlsjXGk4wvU7D_0lv3FPq-MyTA-9Irk/view?usp=drive_link)
+### 🚀 [🌐 Project Demo](https://drive.google.com/file/d/14QlsjXGk4wvU7D_0lv3FPq-MyTA-9Irk/view?usp=drive_link)
 
 ---
 
