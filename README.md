@@ -64,3 +64,14 @@ Users can register, log in, search for doctors, and book appointments online.
 ### 4️⃣ State Management
 - **Challenge**: Sharing state like user info and appointments across components  
 - **Solution**: Used **React Context API** and **localStorage** for session persistence  
+
+
+---
+## 📌 Improvements with More Time
+
+- 🗓️ Calendar view for doctors  
+- 📧 Email & SMS notifications  
+- 💳 Payment gateway integration (e.g., Stripe)  
+- 📊 Admin dashboard with analytics  
+- 🔍 Doctor search/filter by specialization and rating  
+- 🌐 Multi-language support  
